@@ -6,13 +6,13 @@
 //  Copyright © 2016 FormatterKit. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+//#import <Foundation/Foundation.h>
 
 //! Project version number for FormatterKit.
-FOUNDATION_EXPORT double FormatterKitVersionNumber;
+//FOUNDATION_EXPORT double FormatterKitVersionNumber;
 
 //! Project version string for FormatterKit.
-FOUNDATION_EXPORT const unsigned char FormatterKitVersionString[];
+//FOUNDATION_EXPORT const unsigned char FormatterKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <FormatterKit/PublicHeader.h>
 
